@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shittyperson
+- 👋 Hi, I’m @raccoonwithasword
 - 👀 I’m interested in stuff
 - 🌱 I've just started The Odin Project's curriculum
 - 💞️ I’m looking to collaborate on ... I don't know yet
